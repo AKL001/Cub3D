@@ -33,4 +33,4 @@ Here are some captures of the project in action:
 - [ablabib](https://github.com/AKL001)  
 - [znajdaou](https://github.com/ilorez)  
 
-© 2025 AKL001 & ilorez
+© 2025 AKL001
